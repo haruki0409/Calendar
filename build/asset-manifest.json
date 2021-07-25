@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flare30/Calendar/static/css/main.e5929cf9.chunk.css",
+    "main.js": "/flare30/Calendar/static/js/main.9f3e24cb.chunk.js",
+    "main.js.map": "/flare30/Calendar/static/js/main.9f3e24cb.chunk.js.map",
+    "runtime-main.js": "/flare30/Calendar/static/js/runtime-main.6f56276c.js",
+    "runtime-main.js.map": "/flare30/Calendar/static/js/runtime-main.6f56276c.js.map",
+    "static/js/2.2e5c4742.chunk.js": "/flare30/Calendar/static/js/2.2e5c4742.chunk.js",
+    "static/js/2.2e5c4742.chunk.js.map": "/flare30/Calendar/static/js/2.2e5c4742.chunk.js.map",
+    "index.html": "/flare30/Calendar/index.html",
+    "static/css/main.e5929cf9.chunk.css.map": "/flare30/Calendar/static/css/main.e5929cf9.chunk.css.map",
+    "static/js/2.2e5c4742.chunk.js.LICENSE.txt": "/flare30/Calendar/static/js/2.2e5c4742.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f56276c.js",
+    "static/js/2.2e5c4742.chunk.js",
+    "static/css/main.e5929cf9.chunk.css",
+    "static/js/main.9f3e24cb.chunk.js"
+  ]
+}
